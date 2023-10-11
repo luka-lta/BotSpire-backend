@@ -1,0 +1,9 @@
+Datenbank (User)
+
+- user_id = Integer (AI, Primary)
+- username = varchar(30)
+- email = varchar(255)
+- password = char(40)
+- lastLogin = timestamp
+
+JWT: https://www.devbabu.com/create-login-and-registration-restful-api-in-php/
